@@ -1,0 +1,2 @@
+- 👀 Hello!
+- I'm Angel, I'm a front-end programmer with a little experience in fullstack :)
